@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\zhuyi\\source\\repos\\C351-Final-Project\\model_trained\\model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\zhuyi\\source\\repos\\C351-Final-Project\\model_trained\\model.ckpt"
